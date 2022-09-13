@@ -1,5 +1,5 @@
-<h1>Hi ! 👋 I'm Nathan LEFETEY, jstnate for the intimates</h1>
-<h3>Curently in 2nd year of Coding & Digital Innovation studies at IIM Digital School Paris</h3>
+<h1 align="center">Hi ! 👋 I'm Nathan LEFETEY, jstnate for the intimates</h1>
+<h3 align="center">Curently in 2nd year of Coding & Digital Innovation studies at IIM Digital School Paris</h3>
 
 ### A propos de moi 
 
