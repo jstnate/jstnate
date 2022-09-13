@@ -7,4 +7,4 @@
 * 👨‍💻 Predisposed to a future as a full stack developer
 * 📖 I don't have a portfolio yet but it will arrive here soon here
 * 📠 You can contact me by mail at lefetey.nathan@gmail.com
-* 📱 And the link of my linkedin  www.linkedin.com/in/nathanlefetey
+* 📱 And the link of my linkedin [just here](www.linkedin.com/in/nathanlefetey)
