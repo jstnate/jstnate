@@ -7,7 +7,7 @@
 
 * 🧠 I am currently looking for new knowledge/projects in the coding world
 * 👨‍💻 Predisposed to a future as a full stack developer
-* 📖 I don't have a portfolio yet but it will arrive here soon here
+* 📖 You can see my web portfolio [just here](https://nathanlefetey.com/)
 * 📠 You can contact me by mail at lefetey.nathan@gmail.com
 * 📱 And the link of my linkedin [just here](www.linkedin.com/in/nathanlefetey)
 
